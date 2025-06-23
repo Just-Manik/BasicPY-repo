@@ -1,3 +1,3 @@
 # Basic
 
-Python is a general purpose programming language
+Python is a general purpose programming language.
